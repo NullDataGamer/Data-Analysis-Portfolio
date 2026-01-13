@@ -38,6 +38,8 @@ The trends are shown in the bar charts below comparing the three points of inter
 ## PowerBI
 PowerBI has more advanced features than Tableau allowing the user to transform the data, add new columns, add relational models and create dashboards.
 The workbook tasks provided for PowerBI required using the microsoft learning courses "Get data in PowerBI" (https://learn.microsoft.com/en-us/training/modules/get-data/?source=learn), "Clean transform and load data in PowerBI" (https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/02-transform-data-power-bi.html#lab-story) and "Design a Report in PowerBI Desktop" (https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/).
+
+
 Task 1 required the completion of "Get data in PowerBI" this lab was mostly about loading datasets into PowerBI and the completion proof is shown below.
 
 <img width="527" height="302" alt="Image" src="https://github.com/user-attachments/assets/dfb7abc5-efd6-45c5-aabf-f7bade7859a2" />
