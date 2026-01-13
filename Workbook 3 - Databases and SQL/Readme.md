@@ -17,7 +17,7 @@ Below is a screenshot of the relational database model found in the workbook.
 
 The following task in the workbook was to use varying SQL commands to extract data from a provided database.
 These started out with simple SELECT and SORT commands but got more complex joining multiple tables to allow for more complex searches.
-The most interesting task for me in this section was task 10 to sort a list of countries in alphabetical order but only show unique values as shown below.
+The most interesting task for me in this section was task 10 to sort a list of cities in alphabetical order but only show unique values as shown below.
 
 <img width="497" height="380" alt="Image" src="https://github.com/user-attachments/assets/63361ffe-c28b-4161-8916-4b5d823956b5" />
 
