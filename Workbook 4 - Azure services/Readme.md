@@ -30,3 +30,6 @@ The final task for workbook 4 was to create a full report between 1500 - 2000 wo
 The finished report is in the folder as a stand alone word document titled "Workbook 4 Pet Shop Recommendation".
 This report required taking all the knowledge learnt so far and translating it into a real world example.
 The report was made to follow professional formatting with an executive summary along with a more detailed breakdown.
+
+<img width="449" height="486" alt="Image" src="https://github.com/user-attachments/assets/ea0e5bff-0719-454d-af75-dd92e4640c13" />
+
