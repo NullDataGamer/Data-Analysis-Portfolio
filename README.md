@@ -1,2 +1,2 @@
 # Data Bootcamp Summary
-A summary of the 5 technical workbooks completed to demonstrate the skills learnt during the bootcamp.
+A summary of the 5 technical workbooks completed to demonstrate the skills learnt during the 8 week data skills bootcamp with JustIT. Each folder in this repository contains a summary of what was learnt, the completed workbook and a brief screenshot from the file demostrating a key skill learnt. Each folder will contain only 1 workbook but may have more than one topic, for example Workbook 2 covers Tableau and PowerBI. Therefore multiple screenshots for context will be used to demonstrate key skills for each software used to complete the workbook. 
