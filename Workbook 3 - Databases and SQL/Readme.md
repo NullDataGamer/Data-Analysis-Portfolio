@@ -12,13 +12,13 @@ This was followed by JOIN functions and the many different join types you can do
 The main workbook task was to create a database model and recommendations for a small business summed up in a 500 word essay provided in the workbook.
 Below is a screenshot of the relational database model found in the workbook.
 
-<img width="374" height="204" alt="Image" src="https://github.com/user-attachments/assets/b475b817-c636-4223-b106-d7b716da05d9" />
+![Workbook 3 database](Workbook%203%20database.png)
 
 
 The following task in the workbook was to use varying SQL commands to extract data from a provided database.
 These started out with simple SELECT and SORT commands but got more complex joining multiple tables to allow for more complex searches.
 The most interesting task for me in this section was task 10 to sort a list of cities in alphabetical order but only show unique values as shown below.
 
-<img width="497" height="380" alt="Image" src="https://github.com/user-attachments/assets/63361ffe-c28b-4161-8916-4b5d823956b5" />
+![Workbook 3 SQL](Workbook%203%20SQL.png)
 
 
