@@ -10,18 +10,18 @@ Whether you want the infrastructure, platform or software as a service.
 After the basic introduction to cloud computing services the workbook required the completion of the skillable lab for DP-900T00-A Microsoft Azure Fundamentals.
 This lab was using SQL to manipulate databases within Microsoft Azure the first task required manipulating relational databases and the proof of the lab completion is shown below.
 
-<img width="369" height="385" alt="Image" src="https://github.com/user-attachments/assets/832c98fc-877f-4b9b-bfc8-e45408b10f3f" />
+![Workbook 4 task 1](Workbook%204%20task%201.png)
 
 
 The next lab was similar to the previous however it was for non-relational databases and how to extract data from containers as shown below.
 
-<img width="385" height="280" alt="Image" src="https://github.com/user-attachments/assets/a780b2db-588c-4ac3-8466-af965669e782" />
+![Workbook 4 task 2](Workbook%204%20task%202.png)
 
 
 The final lab that was required for the workbook was data analysis in Azure.
 This lab required setting up a data warehouse with a data pipeline and then transforming the data and analysing it the final product is shown below.
 
-<img width="329" height="192" alt="Image" src="https://github.com/user-attachments/assets/11a93306-9e03-4784-8d45-b06f9643722d" />
+![Workbook 4 task 3](Workbook%204%20task%203.png)
 
 
 
@@ -31,5 +31,5 @@ The finished report is in the folder as a stand alone word document titled "Work
 This report required taking all the knowledge learnt so far and translating it into a real world example.
 The report was made to follow professional formatting with an executive summary along with a more detailed breakdown.
 
-<img width="449" height="486" alt="Image" src="https://github.com/user-attachments/assets/ea0e5bff-0719-454d-af75-dd92e4640c13" />
+![Table of Content](Table%20of%20Content.png)
 
