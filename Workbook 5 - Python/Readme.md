@@ -5,21 +5,26 @@ While learning these features the skills learnt were applied to the workbook whi
 The examples are shown below.
 
 
-The first example shows a large dataframe being filtered and manipulated to find the average GDP and display all countries with a lower GDP.
+The first example shows the dataframe being filtered and manipulated to find the European countries with a higher GDP than the UK.
 
-<img width="446" height="367" alt="Image" src="https://github.com/user-attachments/assets/7bf04e0a-4f83-4187-a0da-64fd04df28ca" />
-
-
+![Python](Python.png)
 
 
+The second example shows a large dataframe being filtered and manipulated to find the average GDP and display all countries with a lower GDP.
 
-The second example shows a dataframe manipulated to split a table to show both boys and girls seperated by class and sorted by which class has the highest grade.
+![Python](Python%202.png)
 
-<img width="329" height="490" alt="Image" src="https://github.com/user-attachments/assets/4b720c0b-a56e-419d-8ef4-e1b3403e0836" />
+
+
+
+
+The next example shows a dataframe manipulated to split a table to show both boys and girls seperated by class and sorted by which class has the highest grade.
+
+![Python split table](Python%20split%20table.png)
 
 
 
 
 The final example shows a fun script to take every integer from 0-100 and assign it a value based on if its divisible by 3, 5 or both.
 
-<img width="266" height="398" alt="Image" src="https://github.com/user-attachments/assets/d32c2311-a61a-406f-bd59-bbaa8fba41a2" />
+![FizzBuzz](FizzBuzz.png)
