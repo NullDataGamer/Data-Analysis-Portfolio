@@ -52,7 +52,7 @@ I created a few more graphs all the basic graphs for my intial data break down w
   4) Game popularity by season​
   5) 25 Most popular games by year
 
-## Basic analysis of these graphs
+## Basic Analysis Of These Graphs
 
 Once I was able to visualise the data presented by the graphs I was given an intial insight into the data.
 The initial takeways I was provided with was that;
@@ -65,6 +65,7 @@ Despite these findings seeming to be accurate I wanted to verify this further as
 To do this I decided to create some dashboards with interactive filters to allow a deeper dive into the data.
 This was the reason I created the conditional columns earlier as I wanted my main slicers to be for season and price bands.
 
+## Dashboard Creation
 
 
 
