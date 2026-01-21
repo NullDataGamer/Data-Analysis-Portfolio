@@ -25,4 +25,4 @@ Once I was done cleaning and transforming the data I could finally begin visuali
 I decided to start with a universal chart that I could use as a baseline to make sure any other charts created didn't give anomalous answers.
 The first chart created was a simple bar chart showing the 25 most popular games released during the timeframe shown below.
 
-![Graph 2](Graph%202.png)
+![Graph 1](Graph%201.png)
