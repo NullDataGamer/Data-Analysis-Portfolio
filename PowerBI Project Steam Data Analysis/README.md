@@ -87,5 +87,14 @@ To break down the data further to verify if my previous findings were accurate o
 
 ## Final analysis
 
+Despite the dataset being quite messy there was some interesting insights to glean from this data. 
+The trend I found the most interesting was the pattern between price and popularity going into this I was expecting the free games to be the most popular with more expensive games being less popular. 
+The reason I believed this to be the case was because a lot of big studios release games annually for about $60 and are usually lower quality while most of the games that have massive cult followings are free games created by Indie developers. 
+This is somewhat shown in the data with both free games and $60 games being the most popular with popularity decreasing from $10 -$50 which I find interesting as it implies the consumers do not like these games as much. 
 
+The other main point discovered was the while it seems that winter is the best time of year to release a game due to it having the highest share of game recommendations (31.86% of the total). 
+This is because the most games release during winter (19,780) which makes up 30% of the games released in a year meaning more competition if you were to release a game during this month. 
+However if you were to release a game during autumn which has the lowest amount of game releases at just 19.71% of the years releases it has 23.95% of the total recommendations making it the most optimal season for a game release.
+
+Therefore it would be recommended if you were to design a game to either go the indie developer route and create a free or cheap game below $20 or go all in and release a $60 AAA game during the Autumn season for the highest chance of success. 
 
