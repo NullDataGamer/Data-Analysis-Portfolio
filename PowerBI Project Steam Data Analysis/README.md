@@ -69,14 +69,23 @@ This was the reason I created the conditional columns earlier as I wanted my mai
 
 To break down the data further to verify if my previous findings were accurate or missleading I created the following dashboards.
 
-  1) 25 Most popular games (with slicers for season and price range)
+### 1) 25 Most popular games (with slicers for season and price range)
+
 ![Dashboard 1](Dashboard%201.png)
 ​
-  4) 25 Most popular games by price (with slicers for season and price range)​
-  5) Game popularity by season (with slicer for year and cards to display the 3 most popular games and the sum of recommendations for them along with a count of the number of games released)​
-  6) 25 Most popular games by year (with slicers for season and price range)
+### 2) 25 Most popular games by price (with slicers for season and price range)
+  
+![Dashboard 2](Dashboard%202.png)  
+  ​
+### 3) Game popularity by season (with slicer for year and cards to display the 3 most popular games and the sum of recommendations for them along with a count of the number of games released)
+  
+![Dashboard 3](Dashboard%203.png)    
+  ​
+### 4) 25 Most popular games by year (with slicers for season and price range)
 
+![Dashboard 4](Dashboard%204.png)  
 
+## Final analysis
 
 
 
