@@ -5,4 +5,4 @@ You will learn to transform, organize, and visualize data with spreadsheet tools
 You will also learn how to query data from a relational database using SQL and how to improve your data presentations using powerful business intelligence tools like Tableau.
 By the end of the course, you will have an analytics portfolio complete with an analysis of the popular movies dataset, showcasing your skills in Excel, SQL and Tableau.
 
-[data-analytics-essentials.png]
+![data-analytics-essentials.png](data-analytics-essentials.png)
